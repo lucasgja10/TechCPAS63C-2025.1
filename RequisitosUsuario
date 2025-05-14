@@ -1,0 +1,17 @@
+# 👤 Requisitos de Usuário
+
+Documentação dos requisitos definidos do ponto de vista do usuário final.
+
+## 🔍 Objetivo
+Capturar o que o usuário espera que o sistema faça, sem entrar em detalhes técnicos.
+
+## ✅ Estrutura sugerida:
+- [ ] Identificador do requisito (ex: RU01)
+- [ ] Descrição do requisito
+- [ ] Prioridade (Alta, Média, Baixa)
+- [ ] Tipo (Funcional ou Não Funcional)
+
+### 📄 Exemplo:
+- **RU01** - O sistema deve permitir que o usuário se cadastre com e-mail e senha.
+- **Prioridade**: Alta
+- **Tipo**: Funcional
