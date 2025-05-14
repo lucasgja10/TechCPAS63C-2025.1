@@ -1,7 +1,7 @@
 # TechCPAS63C-2025.1
 
 Logo do sistema:
- <div align="center"><img src="https://i.postimg.cc/5tX0mw86/Whats-App-Image-2025-05-13-at-23-57-04.jpg" width="100"/></div> 
+ <div align="left"><img src="https://i.postimg.cc/5tX0mw86/Whats-App-Image-2025-05-13-at-23-57-04.jpg" width="300"/></div> 
 
 
 Nome dos Integrantes:
