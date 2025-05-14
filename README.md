@@ -5,7 +5,7 @@ Nome dos Integrantes:
 | Nome             | Foto                      | GitHub                                             |
 | ---------------- | ------------------------- | -------------------------------------------------- |
 | Lucas de Lima Quaglia  | ![                  | [@lucasgja10](https://github.com/lucasgja10)       |
-| Alexandre Saito Bertão | ![Alexandre](link-da-foto)  | [@alexandresb8](https://github.com/alexandresb8)             |
+| Alexandre Saito Bertão |  <div align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQHyzQZIaLlv7g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709698348029?e=1752710400&v=beta&t=3-m_4LvXx_P3vOSar_TUsTHOXgod4ZczorPoM9_ilxQ" width="60"/></div>  | [@alexandresb8](https://github.com/alexandresb8)             |
 | Beltrano Martins | ![Beltrano](link-da-foto) | [@beltrano](https://github.com/beltrano)           |
 6
 
