@@ -1,5 +1,8 @@
 # TechCPAS63C-2025.1
 
+Logo do sistema:
+ <div align="center"><img src="blob:https://web.whatsapp.com/19df5392-9878-4583-8fbf-d0bb67ec3b61" width="100"/></div> 
+
 
 Nome dos Integrantes:
 | Nome             | Foto                      | GitHub                                             |
