@@ -5,7 +5,7 @@ Nome dos Integrantes:
 | Nome             | Foto                      | GitHub                                             |
 | ---------------- | ------------------------- | -------------------------------------------------- |
 | Lucas de Lima Quaglia  | ![                  | [@lucasgja10](https://github.com/lucasgja10)       |
-| Ciclano Oliveira | ![Ciclano](link-da-foto)  | [@ciclano](https://github.com/ciclano)             |
+| Alexandre Saito Bertão | ![Alexandre](link-da-foto)  | [@alexandresb8](https://github.com/alexandresb8)             |
 | Beltrano Martins | ![Beltrano](link-da-foto) | [@beltrano](https://github.com/beltrano)           |
 6
 
