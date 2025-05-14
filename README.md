@@ -1,5 +1,8 @@
 # TechCPAS63C-2025.1
 
+Logo do grupo:
+ <div align="left"><img src="https://media-hosting.imagekit.io/e5ba24f631e04746/techcp-high-resolution-logo.png?Expires=1841873780&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=L96ESxwhyWAqa-eapY6c3N2uAoGdWRzC5uVjlCPfAnnJxaeA82yJMkWJ-1vRU4EbFYPwci-r4adPseUJiLlbwRwREV72d0gFG2EoKmOw1lvMwn5~fp6XiL91LvcwGwR6PaHnaw8RKxE3zFpQZn9eJjgBEc-SyiEGThBtZrUjHRKn5TFnNWi5Gdcd9cnpN2Srkoy8YxXwyNbyhqK37Zy2h8ShB5~PKAsJtHUocfPIpTNaVw4U~emqkODZkbn5vLYtbDfic9uD7baN9pyLK2WVEmn1HN0ffv7miyTg~s04KXjcKTRlVr~~RQ3PMRG90P5viXY~sMPGzz16cqbj8C7jag__" width="300"/></div> 
+
 Logo do sistema:
  <div align="left"><img src="https://i.postimg.cc/5tX0mw86/Whats-App-Image-2025-05-13-at-23-57-04.jpg" width="300"/></div> 
 
