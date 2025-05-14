@@ -1,0 +1,19 @@
+# 🖥️ Requisitos de Sistema
+
+Esta pasta contém os requisitos técnicos do sistema e os diagramas de apoio à implementação.
+
+## 📌 Conteúdos esperados:
+- Requisitos funcionais e não funcionais
+- Diagramas UML (caso de uso, classes, sequência, etc.)
+- Arquivos `.astah` usados para criar os diagramas
+
+## 📝 Requisitos Funcionais (RF)
+- **RF01** - O sistema deve autenticar usuários com login e senha.
+- **RF02** - O sistema deve permitir cadastrar novos produtos.
+
+## 📝 Requisitos Não Funcionais (RNF)
+- **RNF01** - A aplicação deve ser compatível com navegadores modernos.
+- **RNF02** - O tempo de resposta do servidor não deve ultrapassar 2 segundos.
+
+## 📊 Diagramas
+Adicione imagens dos diagramas ou o link para download do `.astah`.
