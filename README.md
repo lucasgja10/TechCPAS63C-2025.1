@@ -16,7 +16,6 @@ Nome dos Integrantes:
 | Nycollas da Silva Garcia | <div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D03AQH6PrwbTuka_A/profile-displayphoto-shrink_200_200/B4DZbU5qXKG8AM-/0/1747328608144?e=1752710400&v=beta&t=DMCnx5EvbL8nSMY9maVb8BJYCYr1ZPy4FLHhKfgJaX4" width="60"/></div> | [@NycollasSG](https://github.com/NycollasSG)           |
 | João Vitor Angelim Nogueira | <div align="center"><img src="https://avatars.githubusercontent.com/u/137131336?v=4" width="60"/></div> | [@VitorAngN](https://github.com/VitorAngN)           |
 
-          |
 
 Nome da Disciplina: Desenvolvimento Ágil 1º Semestre de 2025
 
