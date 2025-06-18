@@ -1,7 +1,7 @@
 # TechCPAS63C-2025.1
 
 Logo do grupo:
- <div align="left"><img src="https://media.discordapp.net/attachments/787541417416851487/1375199378855170048/68aae9bd-ae18-49ad-b779-f9a25b41f53f.jpeg?ex=6830d1b9&is=682f8039&hm=02eb61d87100ba87e9e8d8a7ae795e42f1b494ad78f8c1ebdb2a86d487841818&=&format=webp&width=1303&height=977" width="300"/></div> 
+ <div align="left"><img src="https://i.ibb.co/JWJmHNxK/6201c7fe-bbd5-4b2f-9554-67e50fd43a63.jpg" width="300"/></div> 
 
 Logo do sistema:
  <div align="left"><img src="https://i.postimg.cc/5tX0mw86/Whats-App-Image-2025-05-13-at-23-57-04.jpg" width="300"/></div> 
