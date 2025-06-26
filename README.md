@@ -15,7 +15,7 @@ Nome dos Integrantes:
 | Vinícius Campeão Fernandes | <div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGfAI_qOuh6gQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1672834639742?e=1752710400&v=beta&t=_NPa77zXsLnA4DIwbvrBaCbPoha-HkrnrchKpcdLv9s" width="60"/></div> | [@ViniciusCampeao](https://github.com/ViniciusCampeao)           |
 | Nycollas da Silva Garcia | <div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D03AQH6PrwbTuka_A/profile-displayphoto-shrink_200_200/B4DZbU5qXKG8AM-/0/1747328608144?e=1752710400&v=beta&t=DMCnx5EvbL8nSMY9maVb8BJYCYr1ZPy4FLHhKfgJaX4" width="60"/></div> | [@NycollasSG](https://github.com/NycollasSG)           |
 | João Vitor Angelim Nogueira | <div align="center"><img src="https://avatars.githubusercontent.com/u/137131336?v=4" width="60"/></div> | [@VitorAngN](https://github.com/VitorAngN)           |
-| Norberto Jacinto de Lemos Júnior | <div align="center"><img src="https://raw.githubusercontent.com/lucasgja10/TechCPAS63C-2025.1/main/assets/norberto-linkedin-final.jpg" width="60"/></div> | [@NorbertoJunior](https://github.com/NorbertoJunior) |
+| Norberto Jacinto de Lemos Júnior | <div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D03AQFw11kADWdeKQ/profile-displayphoto-scale_400_400/0/1750877959312?e=1756339200&v=beta&t=o73r1V10j2r0VVmo-lVn_9Fs6ehTmtpJwFg1pc9qE4c" width="60"/></div> | [@NorbertoJunior](https://github.com/NorbertoJunior) |
 
 Nome da Disciplina: Desenvolvimento Ágil 1º Semestre de 2025
 
